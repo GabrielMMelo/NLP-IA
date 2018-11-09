@@ -1,0 +1,17 @@
+Aprendizado de Máquina 
+	Features:
+		-numérica ()
+		-categórica (pequeno, médio, grande, ...)
+		-nominal (azul, vermelho, ...)
+			* One Hot encoding (não recomendado para categóricas)
+			* counter.vectorizing (considera a quantidade de ocorrencias)
+			* STF (?)  
+			* Word embeddings/word2vec (MELHOR que as anteriores)
+				**Document2vec (variação)
+
+				** Exemplo: documentos jurídicos (utilização de doc2vec para definiç~ao de tipo de processo)
+
+
+Python 
+	-Pickle
+
