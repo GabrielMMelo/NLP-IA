@@ -17,4 +17,6 @@ Python
 
 
 CASA
-	-Trocar count.vectorize para word2vec utilizado na na primeira aula (jupyter)
+	- Trocar count.vectorize para word2vec utilizado na na primeira aula (jupyter)
+	- Utiliza numpy para somar (ou multiplicar, ou, melhor ainda, calcular a media) vetores
+	
