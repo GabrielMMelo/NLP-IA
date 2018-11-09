@@ -15,3 +15,6 @@ Aprendizado de Máquina
 Python 
 	-Pickle
 
+
+CASA
+	-Trocar count.vectorize para word2vec utilizado na na primeira aula (jupyter)
